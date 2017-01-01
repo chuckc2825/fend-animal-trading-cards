@@ -1,0 +1,31 @@
+/* add your CSS here */
+
+.italic {
+  	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+ul.normal {
+  	list-style-type: none;
+}
+
+.cardborder {
+	border: 1px solid #b2c1cd;
+	max-width: 310px;
+    padding: 5px;
+    box-shadow: 9px 10px 5px 0px #b2c1cd; 
+}
+
+.contentborder {
+	border: 1px solid #b2c1cd;
+	max-width: 310px;
+    padding: 5px;
+}
+
+.imagepadding {
+	padding-bottom: 10px;
+	width: 310px;
+}
