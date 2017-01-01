@@ -1,25 +1,25 @@
 /* add your CSS here */
 
-.italic {
+.interesting-fact {
   	font-style: italic;
 }
 
-.bold {
+.label {
 	font-weight: bold;
 }
 
-ul.normal {
+ul.facts-list {
   	list-style-type: none;
 }
 
-.cardborder {
+.animal-card {
 	border: 1px solid #b2c1cd;
 	max-width: 310px;
     padding: 5px;
     box-shadow: 9px 10px 5px 0px #b2c1cd; 
 }
 
-.contentborder {
+.animal-info {
 	border: 1px solid #b2c1cd;
 	max-width: 310px;
     padding: 5px;
